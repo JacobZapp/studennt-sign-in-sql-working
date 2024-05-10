@@ -1,0 +1,5 @@
+package.json is describing what libraries the app is using. This is things like
+bootstrap, vite, vue, and other similar things. maybe Leaflet?
+
+
+style scoped
